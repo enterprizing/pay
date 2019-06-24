@@ -3,7 +3,7 @@
   {description, "PAY Payment Services"},
   {vsn, "0.6.0"},
   {registered, []},
-  {applications, [kernel,stdlib,kvs]},
+  {applications, [kernel,stdlib]},
   {mod, { acc, []}},
   {env, []}
  ]}.
